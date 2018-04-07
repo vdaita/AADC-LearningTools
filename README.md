@@ -55,7 +55,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
      - [x] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
      - [ ] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
 - [ ] Debug and fix an application crash (uncaught exception)
-   - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+   - [X] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - [ ] Debug and fix an activity lifecycle issue
    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - [ ] Debug and fix an issue binding data to views
