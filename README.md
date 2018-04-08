@@ -42,7 +42,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 - Write and execute a device UI test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
   - [x] [Automating User Interface Tests][testing_debuggin_ui_testing]
-  - [ ] [Espresso][testing_and_debuggin_espresso]
+  - [x] [Espresso][testing_and_debuggin_espresso]
   - [ ] [UI Automator][testing_and_debuggin_ui_automator]
   - [ ] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
   - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
