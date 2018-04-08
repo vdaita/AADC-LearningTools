@@ -84,7 +84,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
   - [ ] [Android Developers docs about Widget][android_developers_about_widget]
   - [ ] [TreeHouse Widgets Workshop][treehouse_widget_workshop]
 - [ ] Define a RecyclerView item list
-  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [x] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
   - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
   - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
