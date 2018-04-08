@@ -36,8 +36,8 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
   - [ ] [Android Testing Codelab][testing_and_debugging_testing_codelab]
   - [ ] [Android Testing Samples][testing_and_debugging_android_test_samples]
   - [ ] [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
-  - [ ] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
-  - [ ] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
+  - [x] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
+  - [x] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
   - [ ] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
 - Write and execute a device UI test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
