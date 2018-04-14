@@ -46,7 +46,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
   - [ ] [UI Automator][testing_and_debuggin_ui_automator]
   - [ ] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
   - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
-  - [ ] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
+  - [x] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
   - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
 
 - Given a problem description, replicate the failure
