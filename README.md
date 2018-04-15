@@ -94,7 +94,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
   - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Implement menu-based or drawer navigation
-  - [ ] [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
+  - [x] [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
   - [ ] [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
   - [ ] [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
   - [ ] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
