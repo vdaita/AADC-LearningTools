@@ -103,7 +103,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
   - [ ] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
   - [ ] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
    - [ ] [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
-    - [ ] [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
+    - [x] [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
   - [ ] [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
   - [ ] [[Android Developer Page] DateFormat](https://developer.android.com/reference/java/text/DateFormat.html)
 - [ ] Apply content descriptions to views for accessibility
