@@ -116,18 +116,18 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 >Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - [ ] Describe an application's key functional and nonfunctional requirements
 - [ ] Create an Activity that displays a layout resource
-- [ ] Fetch local data from disk using a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) on a background thread
+- [x] Fetch local data from disk using a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) on a background thread
   - [ ] [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
 - [ ] Propagate data changes through a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) to the UI
   - [ ] [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
 - [ ] [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [x] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Execute a background task inside of a [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [Android Performance Patterns Season 4 ep6] Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
-  - [ ] [[Android Developer Page] Services](https://developer.android.com/guide/components/services.html)
+  - [x] [[Android Developer Page] Services](https://developer.android.com/guide/components/services.html)
   - [ ] [[Android Developer Page] Creating a Background Service](https://developer.android.com/training/run-background-service/create-service.html)
 - [ ] Implement non-standard task stack navigation (deep links)
    -  [ ] [[Android Developer Page] Enabling Deep Links for Apps content](https://developer.android.com/training/app-indexing/deep-linking.html)
@@ -165,11 +165,11 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 >Extending applications to integrate with interfaces outside the core application experience through notifications and app widgets. This includes displaying information to the user through these elements and keeping that information up to date. Candidates should also understand how to provide proper navigation from these external interfaces into the application's main task, including appropriate handling of deep links.
 
 - [x] Create an app widget that displays on the device home screen
-  - [ ] [[Android Developers docs] about Widget][android_developers_about_widget]
+  - [x] [[Android Developers docs] about Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
-  - [ ] [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
-- [ ] Implement a task to update the app widget periodically
-  - [ ] [[Android Developers Page] Widget][android_developers_about_widget]
+  - [x] [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
+- [x] Implement a task to update the app widget periodically
+  - [x] [[Android Developers Page] Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
 - [x] Create and display a notification to the user
   - [ ] [[Android Developer Page] Building a Notification](https://developer.android.com/training/notify-user/build-notification.html)
