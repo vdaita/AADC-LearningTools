@@ -99,13 +99,13 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
   - [ ] [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
   - [ ] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
   - [ ] [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
-- [ ] Localize the application's UI text into one other language
-  - [ ] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
-  - [ ] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
-   - [ ] [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
+- [x] Localize the application's UI text into one other language
+  - [x] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
+  - [x] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
+   - [x] [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
     - [x] [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
-  - [ ] [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
-  - [ ] [[Android Developer Page] DateFormat](https://developer.android.com/reference/java/text/DateFormat.html)
+  - [x] [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
+  - [x] [[Android Developer Page] DateFormat](https://developer.android.com/reference/java/text/DateFormat.html)
 - [ ] Apply content descriptions to views for accessibility
    - [ ]  [[Android Developer Page] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
    - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
