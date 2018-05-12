@@ -132,7 +132,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 - [ ] Implement non-standard task stack navigation (deep links)
    -  [ ] [[Android Developer Page] Enabling Deep Links for Apps content](https://developer.android.com/training/app-indexing/deep-linking.html)
    -  [ ] [[Team Treehouse Course] Deep Links](https://teamtreehouse.com/library/deep-links)
-   -  [ ] [[Jayway Blog] The Browseable Category](https://blog.jayway.com/2009/09/24/the-browsable-category-revealed/)
+   -  [x] [[Jayway Blog] The Browseable Category](https://blog.jayway.com/2009/09/24/the-browsable-category-revealed/)
 - Integrate code from an external support library
 
 #### Persistent Data Storage
